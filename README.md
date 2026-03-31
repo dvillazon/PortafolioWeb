@@ -1,13 +1,56 @@
-# Astro with Tailwind
+# 🔥 Portafolio Web - Astro
 
-```sh
-npm create astro@latest -- --template with-tailwindcss
-```
+<p align="center">
+  <img src="./public/preview.png" alt="preview" width="800"/>
+</p>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/with-tailwindcss)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/with-tailwindcss/devcontainer.json)
+<p align="center">
+  <strong>🚀 Portafolio moderno, rápido y optimizado</strong><br/>
+  Desarrollado con Astro + Tailwind CSS
+</p>
 
-Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
+---
 
-For complete setup instructions, please see our [Tailwind Styling Guide](https://docs.astro.build/en/guides/styling/#tailwind).
+## 🧠 Sobre el proyecto
+
+Este es mi portafolio personal donde presento mis proyectos, habilidades y experiencia como desarrollador frontend.  
+Está diseñado con un enfoque en **rendimiento, diseño minimalista y experiencia de usuario**.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+![Astro](https://img.shields.io/badge/Astro-000?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</p>
+
+---
+
+## ✨ Features
+
+- ⚡ Alto rendimiento gracias a Astro  
+- 🎨 UI moderna con Tailwind CSS  
+- 📱 Diseño 100% responsive  
+- 🔍 Optimización SEO  
+- 🧩 Arquitectura escalable  
+- 🎬 Animaciones suaves (si aplica)  
+
+---
+
+## 📂 Estructura del proyecto
+
+```bash
+/
+├── public/
+├── src/
+│   ├── components/
+│   ├── layouts/
+│   ├── pages/
+│   └── styles/
+├── astro.config.mjs
+├── tailwind.config.js
+└── package.json
