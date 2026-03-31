@@ -1,12 +1,12 @@
-# 🔥 Portafolio Web - Astro
+# 🔥 Portafolio Web + Astro
 
 <p align="center">
-  <img src="./public/preview.png" alt="preview" width="800"/>
+    <img src="./public/favicon.svg" alt="preview" width="800"/>
 </p>
 
 <p align="center">
-  <strong>🚀 Portafolio moderno, rápido y optimizado</strong><br/>
-  Desarrollado con Astro + Tailwind CSS
+    <strong>🚀 Portafolio moderno, rápido y optimizado</strong><br/>
+    Desarrollado con Astro + Tailwind CSS
 </p>
 
 ---
@@ -52,5 +52,48 @@ Está diseñado con un enfoque en **rendimiento, diseño minimalista y experienc
 │   ├── pages/
 │   └── styles/
 ├── astro.config.mjs
-├── tailwind.config.js
+├── tsconfig.json
 └── package.json
+```
+
+---
+
+## 🚀 Instalación
+
+1. **Clonar el repositorio**
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd PortafolioWeb
+```
+
+2. **Instalar dependencias**
+```bash
+npm install
+```
+
+3. **Ejecutar en desarrollo**
+```bash
+npm run dev
+```
+
+4. **Compilar para producción**
+```bash
+npm run build
+```
+
+## 🌍 Deploy
+
+Este proyecto está optimizado para desplegarse en **Vercel**, aprovechando su integración nativa con Astro y su excelente rendimiento en edge computing.
+
+
+## 👨‍💻 Autor
+
+**Charlydev**
+
+💼 Desarrollador Frontend
+📧 clirianovillazon@gmail.com
+🌎 https://tu-sitio.com
+
+## ⭐ Apóyame
+
+Si te gusta este proyecto, dale una ⭐ al repo 🙌
